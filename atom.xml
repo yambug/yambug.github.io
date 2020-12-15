@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>文竹、文竹</title>
+  
+  
+  <link href="http://yambug.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://yambug.github.io/"/>
+  <updated>2020-12-15T13:21:09.189Z</updated>
+  <id>http://yambug.github.io/</id>
+  
+  <author>
+    <name>石彦波</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo博客设置打赏功能</title>
+    <link href="http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html"/>
+    <id>http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html</id>
+    <published>2020-12-15T13:18:13.000Z</published>
+    <updated>2020-12-15T13:21:09.189Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先本博客使用了Hexo,yilia主题</p><p>把你保存的图片放到 themes\yilia\source\img 文件夹里</p><p>打开主题配置文件 _config.yml</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line"># 打赏</span><br><span class="line"># 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏</span><br><span class="line">reward_type: 2</span><br><span class="line"># 打赏wording</span><br><span class="line">reward_wording: &#39;谢谢您请码农喝咖啡&#39;</span><br><span class="line"># 支付宝二维码图片地址，跟你设置头像的方式一样。比如：&#x2F;assets&#x2F;img&#x2F;alipay.jpg</span><br><span class="line">alipay: #&#x2F;img&#x2F;alizanshang.jpg</span><br><span class="line"># 微信二维码图片地址</span><br><span class="line">weixin: &#x2F;img&#x2F;zanshang.jpg</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>编译  hexo clean &amp;&amp; hexo g  运行 hexo server 测试是否成功</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先本博客使用了Hexo,yilia主题&lt;/p&gt;
+&lt;p&gt;把你保存的图片放到 themes\yilia\source\img 文件夹里&lt;/p&gt;
+&lt;p&gt;打开主题配置文件 _config.yml&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    
+    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客添加访问量统计</title>
+    <link href="http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html"/>
+    <id>http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html</id>
+    <published>2020-12-15T12:08:55.000Z</published>
+    <updated>2020-12-15T12:14:13.846Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先本博客使用了Hexo,yilia主题</p><p>在themes/yilia/_config.yml添加属性</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">busuanzi:</span><br><span class="line"> enable: true</span><br></pre></td></tr></table></figure><p>在themes/yilia/layout/_partial/footer.ejs末尾添加如下代码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;% if (theme.busuanzi &amp;&amp; theme.busuanzi.enable)&#123; %&gt;</span><br><span class="line">&lt;!-- 不蒜子统计 --&gt;</span><br><span class="line">&lt;span id&#x3D;&quot;busuanzi_container_site_pv&quot;&gt;</span><br><span class="line">本站总访问量&lt;span id&#x3D;&quot;busuanzi_value_site_pv&quot;&gt;&lt;&#x2F;span&gt;次</span><br><span class="line">&lt;&#x2F;span&gt;</span><br><span class="line">&lt;span class&#x3D;&quot;post-meta-divider&quot;&gt;|&lt;&#x2F;span&gt;</span><br><span class="line">&lt;span id&#x3D;&quot;busuanzi_container_site_uv&quot; style&#x3D;&#39;display:none&#39;&gt;</span><br><span class="line">本站访客数&lt;span id&#x3D;&quot;busuanzi_value_site_uv&quot;&gt;&lt;&#x2F;span&gt;人</span><br><span class="line">&lt;&#x2F;span&gt;</span><br><span class="line">&lt;script async src&#x3D;&quot;&#x2F;&#x2F;busuanzi.ibruce.info&#x2F;busuanzi&#x2F;2.3&#x2F;busuanzi.pure.mini.js&quot;&gt;&lt;&#x2F;script&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure><p>在themes/yilia/layout/_partial/post/date.ejs开头添加如下代码</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;% if (theme.busuanzi &amp;&amp; theme.busuanzi.enable &amp;&amp; !index)&#123; %&gt;</span><br><span class="line">&lt;!-- 不蒜子统计 --&gt;</span><br><span class="line">&lt;span id&#x3D;&quot;busuanzi_container_page_pv&quot; style&#x3D;&#39;display:none&#39; class&#x3D;&quot;&lt;%&#x3D; class_name %&gt;&quot;&gt;</span><br><span class="line">  &lt;i class&#x3D;&quot;icon-smile icon&quot;&gt;&lt;&#x2F;i&gt; 阅读数：&lt;span id&#x3D;&quot;busuanzi_value_page_pv&quot;&gt;&lt;&#x2F;span&gt;次</span><br><span class="line">&lt;&#x2F;span&gt;</span><br><span class="line">&lt;% &#125; %&gt;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先本博客使用了Hexo,yilia主题&lt;/p&gt;
+&lt;p&gt;在themes/yilia/_config.yml添加属性&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span cl</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    
+    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>GitHub Pages 设置好的域名实效了，页面访问返回 404</title>
+    <link href="http://yambug.github.io/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html"/>
+    <id>http://yambug.github.io/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html</id>
+    <published>2020-12-14T15:07:49.000Z</published>
+    <updated>2020-12-14T14:47:57.649Z</updated>
+    
+    <content type="html"><![CDATA[<p>我在本地使用了hexo-cli 生成静态的html页面<br>然后，用<code>hexo d</code>来部署到git</p><p>但是原先在<code>Settings</code>里面设置好的域名实效了</p><p>后来看到文档里面有特别说明，记录与此</p><p>More info: <a href="https://docs.github.com/articles/using-a-custom-domain-with-github-pages/">Configuring a custom domain for your GitHub Pages site</a></p><p>If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the CNAME file to your local repository. For more information, see “<a href="https://docs.github.com/en/free-pro-team@latest/articles/troubleshooting-custom-domains-and-github-pages#cname-errors">Troubleshooting custom domains and GitHub Pages.</a>“</p><p>For your site to render at the correct domain, make sure your CNAME file still exists in the repository. For example, many static site generators force push to your repository, which can overwrite the CNAME file that was added to your repository when you configured your custom domain. If you build your site locally and push generated files to GitHub, make sure to pull the commit that added the CNAME file to your local repository first, so the file will be included in the build.</p><p>Then, make sure the CNAME file is formatted correctly.</p><p>The CNAME filename must be all uppercase.<br>The CNAME file can contain only one domain. To point multiple domains to your site, you must set up a redirect through your DNS provider.<br>The CNAME entry must be the bare domain. For example, <a href="http://www.example.com,blog.example.com/">www.example.com,blog.example.com</a>, or example.com.<br>The CNAME entry can only be used once on GitHub. For example, if another repository’s CNAME file contains example.com, you cannot use example.com in the CNAME file for your repository.</p><p>就是在你本地生成页面后，要确保生成目录中包含正确的CNAME文件，否则域名解析将不会生效。</p><p>CNAME文件中只能有一个域名，并且不能被使用过。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我在本地使用了hexo-cli 生成静态的html页面&lt;br&gt;然后，用&lt;code&gt;hexo d&lt;/code&gt;来部署到git&lt;/p&gt;
+&lt;p&gt;但是原先在&lt;code&gt;Settings&lt;/code&gt;里面设置好的域名实效了&lt;/p&gt;
+&lt;p&gt;后来看到文档里面有特别说明，记录与此&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    
+    <category term="Domains" scheme="http://yambug.github.io/tags/Domains/"/>
+    
+  </entry>
+  
+</feed>
