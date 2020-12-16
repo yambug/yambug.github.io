@@ -2905,7 +2905,7 @@ function renderComments(_ref2, instance) {
         initButton.setAttribute('disabled', true);
         instance.init().catch(function (e) {
           initButton.removeAttribute('disabled');
-          alert(e);
+          //alert(e);
         });
       };
       initButton.innerText = '初始化评论';
@@ -3103,7 +3103,7 @@ function renderEditor(_ref3, instance) {
       submitButton.removeAttribute('disabled');
       submitButton.innerText = '发表评论';
     }).catch(function (e) {
-      alert(e);
+      //alert(e);
       submitButton.removeAttribute('disabled');
       submitButton.innerText = '发表评论';
     });
@@ -3414,7 +3414,7 @@ var Gitment = function () {
 
       this.state.user.isLoggingIn = true;
       //_utils.http.post('https://gh-oauth.imsun.net', {
-      _utils.http.post('https://auth.baixiaotu.cc', {
+      _utils.http.post('https://www.5know.xyz', {
       //_utils.http.post('https://bak.smalbox.club', {
       //_utils.http.post('https://cors.wenjunjiang.win', {
         code: code,
@@ -3425,7 +3425,7 @@ var Gitment = function () {
         _this.update();
       }).catch(function (e) {
         _this.state.user.isLoggingIn = false;
-        alert(e);
+        //alert(e);
       });
     } else {
       this.update();
@@ -3645,7 +3645,7 @@ var Gitment = function () {
       var _this12 = this;
 
       if (!this.accessToken) {
-        alert('登录即可喜欢');
+        //alert('登录即可喜欢');
         return Promise.reject();
       }
 
@@ -3685,7 +3685,7 @@ var Gitment = function () {
       var _this14 = this;
 
       if (!this.accessToken) {
-        alert('登录即可喜欢');
+        //alert('登录即可喜欢');
         return Promise.reject();
       }
 
