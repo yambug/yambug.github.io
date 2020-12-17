@@ -3,3 +3,10 @@
 	margin: 30px 7.6923% 0;
     min-height: 72px;
 }
+/*版权声明的样式*/
+.declare {
+  background-color: #eaeaea;
+  margin-top: 2em;
+  border-left: 3px solid #ff1700;
+  padding: .5em 1em; 
+}

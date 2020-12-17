@@ -15,7 +15,7 @@
 <meta property="og:site_name" content="文竹、文竹">
 <meta property="og:description" content="一个博客">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:author" content="石彦波">
+<meta property="article:author" content="yambo">
 <meta property="article:tag" content="博客">
 <meta name="twitter:card" content="summary">
   
@@ -77,6 +77,9 @@
             
     			
             
+			<nav>
+				总文章数 6
+			</nav>
 		</nav>
 		<nav class="header-nav">
 			<div class="social">
@@ -195,6 +198,10 @@
         		</li>
       		 
         		<li class="article-tag-list-item">
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Hexo</a>
+        		</li>
+      		 
+        		<li class="article-tag-list-item">
         			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Domains</a>
         		</li>
       		
@@ -234,10 +241,10 @@
   <div class="outer">
     <div id="footer-info">
     	<div class="footer-left">
-    		&copy; 2020 石彦波
+    		&copy; 2020 yambo
     	</div>
       	<div class="footer-right">
-      		<a href="http://hexo.io/" target="_blank">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank">Yilia</a> by Litten
+      		<a href="http://hexo.io/" target="_blank" rel="external nofollow">Hexo</a>  Theme <a href="https://github.com/litten/hexo-theme-yilia" target="_blank" rel="external nofollow">Yilia</a> by Litten
       	</div>
     </div>
   </div>
@@ -253,6 +260,22 @@
 	<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   
 </footer>
+
+<!-- 开始添加字数统计-->
+
+  <script language="javascript" type="text/javascript" 
+src="http://apps.bdimg.com/libs/jquery/1.8.1/jquery.min.js">	
+</script>
+<script type="text/javascript">
+ /* 鼠标特效 */ 
+ var a_idx = 0; jQuery(document).ready(function($) 
+ 	{ $("body").click(function(e) { var a = new Array("富强", "民主","文明", "和谐", "自由", "平等", "公正" ,"法治", "爱国", "敬业", "诚信", "友善"); 
+var $i = $("<span/>").text(a[a_idx]); 
+a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY;
+ $i.css({ "z-index": 99, "top": y - 20, "left": x, "position": "absolute", "font-weight": "bold", "color": "#ff6651" }); $("body").append($i); $i.animate({ "top": y - 180, "opacity": 0 }, 1500, function(){ $i.remove(); }); }); });
+ </script>
+  
+<!-- 添加完成 -->
     </div>
     <script>
 	var yiliaConfig = {
@@ -323,7 +346,6 @@ return o(i(t),arguments.length<2?void 0:u(arguments[1]))}})},function(t,n,r){var
 
     
   </div>
-  
 </div>
     <!-- Root element of PhotoSwipe. Must have class pswp. -->
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
