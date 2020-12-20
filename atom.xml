@@ -3,11 +3,11 @@
   <title>文竹、文竹</title>
   
   
-  <link href="http://yambug.github.io/atom.xml" rel="self"/>
+  <link href="http://www.5know.xyz/atom.xml" rel="self"/>
   
-  <link href="http://yambug.github.io/"/>
+  <link href="http://www.5know.xyz/"/>
   <updated>2020-12-19T15:05:47.547Z</updated>
-  <id>http://yambug.github.io/</id>
+  <id>http://www.5know.xyz/</id>
   
   <author>
     <name>yambo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Markdown数学公式语法书</title>
-    <link href="http://yambug.github.io/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html"/>
-    <id>http://yambug.github.io/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html</id>
+    <link href="http://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html"/>
+    <id>http://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html</id>
     <published>2020-12-18T15:59:42.000Z</published>
     <updated>2020-12-19T15:05:47.547Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="markdown" scheme="http://yambug.github.io/tags/markdown/"/>
+    <category term="markdown" scheme="http://www.5know.xyz/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>解决atom 安装 packages 失败</title>
-    <link href="http://yambug.github.io/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html"/>
-    <id>http://yambug.github.io/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html</id>
+    <link href="http://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html"/>
+    <id>http://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html</id>
     <published>2020-12-18T15:49:49.000Z</published>
     <updated>2020-12-18T16:01:12.665Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="atom" scheme="http://yambug.github.io/tags/atom/"/>
+    <category term="atom" scheme="http://www.5know.xyz/tags/atom/"/>
     
   </entry>
   
   <entry>
     <title>hexo设置首页列表显示摘要而不是全文</title>
-    <link href="http://yambug.github.io/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html"/>
-    <id>http://yambug.github.io/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html</id>
+    <link href="http://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html</id>
     <published>2020-12-17T15:12:13.000Z</published>
     <updated>2020-12-17T15:16:29.538Z</updated>
     
@@ -72,42 +72,19 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo下鼠标点击网页空白处出现富强民主和谐自由</title>
-    <link href="http://yambug.github.io/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html"/>
-    <id>http://yambug.github.io/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html</id>
-    <published>2020-12-17T14:13:30.000Z</published>
-    <updated>2020-12-17T15:02:56.070Z</updated>
-    
-    <content type="html"><![CDATA[<p>为鼠标点击事件添加动效，随机出现有意义的字眼。</p><a id="more"></a><p>在theme\yilia\layout_partial\post下创建mouse.ejs文件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;script language&#x3D;&quot;javascript&quot; type&#x3D;&quot;text&#x2F;javascript&quot; </span><br><span class="line">src&#x3D;&quot;http:&#x2F;&#x2F;apps.bdimg.com&#x2F;libs&#x2F;jquery&#x2F;1.8.1&#x2F;jquery.min.js&quot;&gt;</span><br><span class="line">&lt;&#x2F;script&gt;</span><br><span class="line">&lt;script type&#x3D;&quot;text&#x2F;javascript&quot;&gt;</span><br><span class="line"> &#x2F;* 鼠标特效 *&#x2F; </span><br><span class="line"> var a_idx &#x3D; 0; jQuery(document).ready(function($) </span><br><span class="line"> &#123; $(&quot;body&quot;).click(function(e) &#123; var a &#x3D; new Array(&quot;¤富强¤&quot;, &quot;¤民主¤&quot;,&quot;¤文明¤&quot;, &quot;¤和谐¤&quot;, &quot;¤自由¤&quot;, &quot;¤平等¤&quot;, &quot;¤公正¤&quot; ,&quot;¤法治¤&quot;, &quot;¤爱国¤&quot;, &quot;¤敬业¤&quot;, &quot;¤诚信¤&quot;, &quot;¤友善¤&quot;); </span><br><span class="line">var $i &#x3D; $(&quot;&lt;span&#x2F;&gt;&quot;).text(a[a_idx]); </span><br><span class="line">a_idx &#x3D; (a_idx + 1) % a.length; var x &#x3D; e.pageX, y &#x3D; e.pageY;</span><br><span class="line"> $i.css(&#123; &quot;z-index&quot;: 99, &quot;top&quot;: y - 20, &quot;left&quot;: x, &quot;position&quot;: &quot;absolute&quot;, &quot;font-weight&quot;: &quot;bold&quot;, &quot;color&quot;: &quot;#ff6651&quot; &#125;); $(&quot;body&quot;).append($i); $i.animate(&#123; &quot;top&quot;: y - 180, &quot;opacity&quot;: 0 &#125;, 1500, function()&#123; $i.remove(); &#125;); &#125;); &#125;);</span><br><span class="line"> &lt;&#x2F;script&gt;</span><br></pre></td></tr></table></figure><p> 然后在合适的位置引入一下就行。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;为鼠标点击事件添加动效，随机出现有意义的字眼。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
-    
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo下yilia主题添加字数统计和阅读时长功能</title>
-    <link href="http://yambug.github.io/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html"/>
-    <id>http://yambug.github.io/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html</id>
+    <link href="http://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html</id>
     <published>2020-12-17T14:13:30.000Z</published>
     <updated>2020-12-17T15:04:32.782Z</updated>
     
@@ -118,19 +95,42 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo下鼠标点击网页空白处出现富强民主和谐自由</title>
+    <link href="http://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html</id>
+    <published>2020-12-17T14:13:30.000Z</published>
+    <updated>2020-12-17T15:02:56.070Z</updated>
+    
+    <content type="html"><![CDATA[<p>为鼠标点击事件添加动效，随机出现有意义的字眼。</p><a id="more"></a><p>在theme\yilia\layout_partial\post下创建mouse.ejs文件：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">&lt;script language&#x3D;&quot;javascript&quot; type&#x3D;&quot;text&#x2F;javascript&quot; </span><br><span class="line">src&#x3D;&quot;http:&#x2F;&#x2F;apps.bdimg.com&#x2F;libs&#x2F;jquery&#x2F;1.8.1&#x2F;jquery.min.js&quot;&gt;</span><br><span class="line">&lt;&#x2F;script&gt;</span><br><span class="line">&lt;script type&#x3D;&quot;text&#x2F;javascript&quot;&gt;</span><br><span class="line"> &#x2F;* 鼠标特效 *&#x2F; </span><br><span class="line"> var a_idx &#x3D; 0; jQuery(document).ready(function($) </span><br><span class="line"> &#123; $(&quot;body&quot;).click(function(e) &#123; var a &#x3D; new Array(&quot;¤富强¤&quot;, &quot;¤民主¤&quot;,&quot;¤文明¤&quot;, &quot;¤和谐¤&quot;, &quot;¤自由¤&quot;, &quot;¤平等¤&quot;, &quot;¤公正¤&quot; ,&quot;¤法治¤&quot;, &quot;¤爱国¤&quot;, &quot;¤敬业¤&quot;, &quot;¤诚信¤&quot;, &quot;¤友善¤&quot;); </span><br><span class="line">var $i &#x3D; $(&quot;&lt;span&#x2F;&gt;&quot;).text(a[a_idx]); </span><br><span class="line">a_idx &#x3D; (a_idx + 1) % a.length; var x &#x3D; e.pageX, y &#x3D; e.pageY;</span><br><span class="line"> $i.css(&#123; &quot;z-index&quot;: 99, &quot;top&quot;: y - 20, &quot;left&quot;: x, &quot;position&quot;: &quot;absolute&quot;, &quot;font-weight&quot;: &quot;bold&quot;, &quot;color&quot;: &quot;#ff6651&quot; &#125;); $(&quot;body&quot;).append($i); $i.animate(&#123; &quot;top&quot;: y - 180, &quot;opacity&quot;: 0 &#125;, 1500, function()&#123; $i.remove(); &#125;); &#125;); &#125;);</span><br><span class="line"> &lt;&#x2F;script&gt;</span><br></pre></td></tr></table></figure><p> 然后在合适的位置引入一下就行。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;为鼠标点击事件添加动效，随机出现有意义的字眼。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo+yilia添加版权声明</title>
-    <link href="http://yambug.github.io/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html"/>
-    <id>http://yambug.github.io/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html</id>
+    <link href="http://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html</id>
     <published>2020-12-15T13:18:13.000Z</published>
     <updated>2020-12-17T14:56:54.886Z</updated>
     
@@ -141,19 +141,19 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客设置打赏功能</title>
-    <link href="http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html"/>
-    <id>http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html</id>
+    <link href="http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html</id>
     <published>2020-12-15T13:18:13.000Z</published>
     <updated>2020-12-17T14:58:35.142Z</updated>
     
@@ -164,19 +164,19 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客添加访问量统计</title>
-    <link href="http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html"/>
-    <id>http://yambug.github.io/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html</id>
+    <link href="http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html"/>
+    <id>http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html</id>
     <published>2020-12-15T12:08:55.000Z</published>
     <updated>2020-12-17T15:00:20.166Z</updated>
     
@@ -187,19 +187,19 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Pages 设置好的域名实效了，页面访问返回 404</title>
-    <link href="http://yambug.github.io/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html"/>
-    <id>http://yambug.github.io/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html</id>
+    <link href="http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html"/>
+    <id>http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html</id>
     <published>2020-12-14T15:07:49.000Z</published>
     <updated>2020-12-17T15:01:08.294Z</updated>
     
@@ -212,14 +212,14 @@
     
     
     
-    <category term="随笔" scheme="http://yambug.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://yambug.github.io/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://yambug.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
     
-    <category term="Domains" scheme="http://yambug.github.io/tags/Domains/"/>
+    <category term="Domains" scheme="http://www.5know.xyz/tags/Domains/"/>
     
   </entry>
   
