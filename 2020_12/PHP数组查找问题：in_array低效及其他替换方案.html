@@ -6,21 +6,19 @@
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
   <link rel="dns-prefetch" href="http://www.5know.xyz">
-  <title>GitHub Pages 设置好的域名实效了，页面访问返回 404 | 文竹、文竹</title>
+  <title>PHP数组查找问题：in_array低效及其他替换方案 | 文竹、文竹</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta name="description" content="我在本地使用了hexo-cli 生成静态的html页面然后，用hexo d来部署到git 但是原先在Settings里面设置好的域名实效了 后来看到文档里面有特别说明，记录与此">
+  <meta name="description" content="php中数组查找使用场景非常频繁，所以这个不起眼的细节有可能对整个系统造成严重负担。">
 <meta property="og:type" content="article">
-<meta property="og:title" content="GitHub Pages 设置好的域名实效了，页面访问返回 404">
-<meta property="og:url" content="http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html">
+<meta property="og:title" content="PHP数组查找问题：in_array低效及其他替换方案">
+<meta property="og:url" content="http://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html">
 <meta property="og:site_name" content="文竹、文竹">
-<meta property="og:description" content="我在本地使用了hexo-cli 生成静态的html页面然后，用hexo d来部署到git 但是原先在Settings里面设置好的域名实效了 后来看到文档里面有特别说明，记录与此">
+<meta property="og:description" content="php中数组查找使用场景非常频繁，所以这个不起眼的细节有可能对整个系统造成严重负担。">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2020-12-14T15:07:49.000Z">
-<meta property="article:modified_time" content="2020-12-17T15:01:08.294Z">
+<meta property="article:published_time" content="2020-12-21T13:18:49.000Z">
+<meta property="article:modified_time" content="2020-12-21T14:00:07.010Z">
 <meta property="article:author" content="yambo">
-<meta property="article:tag" content="GitHub Pages">
-<meta property="article:tag" content="Hexo">
-<meta property="article:tag" content="Domains">
+<meta property="article:tag" content="PHP">
 <meta name="twitter:card" content="summary">
   
   
@@ -161,14 +159,14 @@
             <canvas data-colors="#eaeaea" data-sectionHeight="100" data-contentId="js-content" id="myCanvas1" class="anm-canvas"></canvas>
           </div>
           <div id="js-content" class="content-ll">
-            <article id="post-在本地生成部署并Github Pages域名设置实效404" class="article article-type-post " itemscope itemprop="blogPost">
+            <article id="post-PHP数组查找问题：in_array低效及其他替换方案" class="article article-type-post " itemscope itemprop="blogPost">
   <div class="article-inner">
     
       <header class="article-header">
         
   
     <h1 class="article-title" itemprop="name">
-      GitHub Pages 设置好的域名实效了，页面访问返回 404
+      PHP数组查找问题：in_array低效及其他替换方案
     </h1>
   
 
@@ -180,8 +178,8 @@
 	</span>
 
 
-<a href="/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html" class="archive-article-date">
-  	<time datetime="2020-12-14T15:07:49.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-12-14</time>
+<a href="/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html" class="archive-article-date">
+  	<time datetime="2020-12-21T13:18:49.000Z" itemprop="datePublished"><i class="icon-calendar icon"></i>2020-12-21</time>
 </a>
 		<!-- 开始添加字数统计-->
         
@@ -190,7 +188,7 @@
       <span class="post-meta-item-icon">
         <i class="fa fa-keyboard-o"></i>
         <span class="post-meta-item-text">  字数统计: </span>
-        <span class="post-count">347字</span>
+        <span class="post-count">560字</span>
       </span>
     </span>
 
@@ -199,7 +197,7 @@
       <span class="post-meta-item-icon">
         <i class="fa fa-hourglass-half"></i>
         <span class="post-meta-item-text">  阅读时长: </span>
-        <span class="post-count">1分</span>
+        <span class="post-count">2分</span>
       </span>
     </span>
 </div>
@@ -211,17 +209,21 @@
     <div class="article-entry" itemprop="articleBody">
 	  
       
-        <p>我在本地使用了hexo-cli 生成静态的html页面<br>然后，用<code>hexo d</code>来部署到git</p>
-<p>但是原先在<code>Settings</code>里面设置好的域名实效了</p>
-<p>后来看到文档里面有特别说明，记录与此</p>
+        <p>php中数组查找使用场景非常频繁，所以这个不起眼的细节有可能对整个系统造成严重负担。</p>
 <a id="more"></a>
-<p>More info: <a target="_blank" rel="noopener" href="https://docs.github.com/articles/using-a-custom-domain-with-github-pages/">Configuring a custom domain for your GitHub Pages site</a></p>
-<p>If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the CNAME file to your local repository. For more information, see “<a target="_blank" rel="noopener" href="https://docs.github.com/en/free-pro-team@latest/articles/troubleshooting-custom-domains-and-github-pages#cname-errors">Troubleshooting custom domains and GitHub Pages.</a>“</p>
-<p>For your site to render at the correct domain, make sure your CNAME file still exists in the repository. For example, many static site generators force push to your repository, which can overwrite the CNAME file that was added to your repository when you configured your custom domain. If you build your site locally and push generated files to GitHub, make sure to pull the commit that added the CNAME file to your local repository first, so the file will be included in the build.</p>
-<p>Then, make sure the CNAME file is formatted correctly.</p>
-<p>The CNAME filename must be all uppercase.<br>The CNAME file can contain only one domain. To point multiple domains to your site, you must set up a redirect through your DNS provider.<br>The CNAME entry must be the bare domain. For example, www.example.com,blog.example.com, or example.com.<br>The CNAME entry can only be used once on GitHub. For example, if another repository’s CNAME file contains example.com, you cannot use example.com in the CNAME file for your repository.</p>
-<p>就是在你本地生成页面后，要确保生成目录中包含正确的CNAME文件，否则域名解析将不会生效。</p>
-<p>CNAME文件中只能有一个域名，并且不能被使用过。</p>
+<h4 id="in-array查找"><a href="#in-array查找" class="headerlink" title="in_array查找"></a>in_array查找</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bool in_array ( mixed $needle , array $haystack [, bool $strict ] )</span><br></pre></td></tr></table></figure>
+<p>从数组中查找对应的值，如果找到了返回<code>true</code>,否则返回<code>false</code>。<br>PHP是弱类型，这个很好用的特性但是在特定的场景下就不是这样了，比如（例子来源于网络）：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">var_dump(in_array(0, array(&#39;s&#39; ));</span><br></pre></td></tr></table></figure><br>结果是<code>true</code>,匪夷所思的是此场景下，非字符串<code>s</code>同整形数比较，首先会转换字符串为整形再进行比较。</p>
+<p>结论是，in_array使用时最好用<code>strict</code>,即所谓的严格模式，严格模式下还会对变量的类型做检查。</p>
+<p>特别的，这个函数不光能查找简单类型，数组也可以查找：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$a &#x3D; array(array(&#39;p&#39;, &#39;h&#39;, &#39;p&#39;), &#39;o&#39;);</span><br><span class="line"></span><br><span class="line">if (in_array(array(&#39;p&#39;, &#39;h&#39;, &#39;p&#39;), $a)) &#123;</span><br><span class="line">echo &quot;&#39;ph&#39; was found\n&quot;;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><br>需要注意的是，如果数据量过大的话，速度会较慢，而且如果是非严格模式下（可能会出现非常多的自动类型转换），效率极低。</p>
+<h4 id="array-search"><a href="#array-search" class="headerlink" title="array_search"></a>array_search</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array_search(value,array,strict)</span><br></pre></td></tr></table></figure>
+<p>从数组中查找对应的值，如果找到了就返回对应值得健名，否则返回false。从参数上看这个跟in_array是差不多的用法，同样要注意严格模式。</p>
+<p>这两个都有严格模式，一般的，建议开启严格模式，如果数据量很大，就不用这俩了，太慢。</p>
+<h4 id="array-key-exists"><a href="#array-key-exists" class="headerlink" title="array_key_exists"></a>array_key_exists</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array_key_exists(key,array)</span><br></pre></td></tr></table></figure>
+<p>这个没有严格模式，但是效率较上两个高出很多，建议使用。</p>
+<h4 id="array-fill-keys"><a href="#array-fill-keys" class="headerlink" title="array_fill_keys"></a>array_fill_keys</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array_fill_keys(keys,value)</span><br></pre></td></tr></table></figure>
+<p>使用指定的键和值填充数组，利用这点也可以做到数组查找，看例子：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$search &#x3D; &quot;ddddd&quot;;</span><br><span class="line">$keys&#x3D;array(&quot;a&quot;,&quot;b&quot;,&quot;c&quot;,&quot;d&quot;);&#x2F;&#x2F;假设有很多</span><br><span class="line">$a1&#x3D;array_fill_keys($keys,&quot;blue&quot;);</span><br><span class="line">print_r(isset($a1[$search]));</span><br></pre></td></tr></table></figure><br>这个也可行，但前提是，要保证被查找的数组中的值是唯一的才行。</p>
+<h4 id="array-flip"><a href="#array-flip" class="headerlink" title="array_flip"></a>array_flip</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">array_flip(array);</span><br></pre></td></tr></table></figure>
+<p>反转数组中所有的键以及它们关联的值,这个思路跟上一个一样，需保证唯一性，不在赘述。</p>
 
       
 
@@ -235,7 +237,7 @@
 			
 			<br>
 			<strong>本文链接：</strong>
-			<a href="http://www.5know.xyz/2020_12/在本地生成部署并Github Pages域名设置实效404.html" title="GitHub Pages 设置好的域名实效了，页面访问返回 404" target="_blank">http://www.5know.xyz/2020_12/在本地生成部署并Github Pages域名设置实效404.html</a>
+			<a href="http://www.5know.xyz/2020_12/PHP数组查找问题：in_array低效及其他替换方案.html" title="PHP数组查找问题：in_array低效及其他替换方案" target="_blank">http://www.5know.xyz/2020_12/PHP数组查找问题：in_array低效及其他替换方案.html</a>
 			<br>
 			<strong>版权声明：</strong>
 			本作品采用
@@ -284,15 +286,7 @@
 		<ul class="article-tag-list">
 			 
         		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">GitHub Pages</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color5">Hexo</a>
-        		</li>
-      		 
-        		<li class="article-tag-list-item">
-        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color3">Domains</a>
+        			<a href="javascript:void(0)" class="js-tag article-tag-list-link color4">PHP</a>
         		</li>
       		
 		</ul>
@@ -359,7 +353,7 @@
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="//pan.baidu.com/share/qrcode?url=http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html" alt="微信分享二维码">
+      <img src="//pan.baidu.com/share/qrcode?url=http://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html" alt="微信分享二维码">
     </div>
 </div>-->
 
@@ -373,15 +367,11 @@
   
 <nav id="article-nav">
   
-    <a href="/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html" id="article-nav-newer" class="article-nav-link-wrap">
-      <i class="icon-circle-left"></i>
-      <div class="article-nav-title">
-        
-          hexo博客添加访问量统计
-        
-      </div>
-    </a>
   
+    <a href="/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html" id="article-nav-older" class="article-nav-link-wrap">
+      <div class="article-nav-title">Markdown数学公式语法书</div>
+      <i class="icon-circle-right"></i>
+    </a>
   
 </nav>
 
