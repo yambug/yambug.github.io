@@ -3,11 +3,11 @@
   <title>文竹、文竹</title>
   
   
-  <link href="http://www.5know.xyz/atom.xml" rel="self"/>
+  <link href="https://www.5know.xyz/atom.xml" rel="self"/>
   
-  <link href="http://www.5know.xyz/"/>
+  <link href="https://www.5know.xyz/"/>
   <updated>2020-12-21T14:00:07.010Z</updated>
-  <id>http://www.5know.xyz/</id>
+  <id>https://www.5know.xyz/</id>
   
   <author>
     <name>Yambo</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>PHP数组查找问题：in_array低效及其他替换方案</title>
-    <link href="http://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html"/>
-    <id>http://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html</id>
+    <link href="https://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html"/>
+    <id>https://www.5know.xyz/2020_12/PHP%E6%95%B0%E7%BB%84%E6%9F%A5%E6%89%BE%E9%97%AE%E9%A2%98%EF%BC%9Ain_array%E4%BD%8E%E6%95%88%E5%8F%8A%E5%85%B6%E4%BB%96%E6%9B%BF%E6%8D%A2%E6%96%B9%E6%A1%88.html</id>
     <published>2020-12-21T13:18:49.000Z</published>
     <updated>2020-12-21T14:00:07.010Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="PHP" scheme="http://www.5know.xyz/tags/PHP/"/>
+    <category term="PHP" scheme="https://www.5know.xyz/tags/PHP/"/>
     
   </entry>
   
   <entry>
     <title>Markdown数学公式语法书</title>
-    <link href="http://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html"/>
-    <id>http://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html</id>
+    <link href="https://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html"/>
+    <id>https://www.5know.xyz/2020_12/Markdown%E6%95%B0%E5%AD%A6%E5%85%AC%E5%BC%8F%E8%AF%AD%E6%B3%95%E4%B9%A6.html</id>
     <published>2020-12-18T15:59:42.000Z</published>
     <updated>2020-12-19T15:05:47.547Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="markdown" scheme="http://www.5know.xyz/tags/markdown/"/>
+    <category term="markdown" scheme="https://www.5know.xyz/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>解决atom 安装 packages 失败</title>
-    <link href="http://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html"/>
-    <id>http://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html</id>
+    <link href="https://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html"/>
+    <id>https://www.5know.xyz/2020_12/%E8%A7%A3%E5%86%B3atom%20%E5%AE%89%E8%A3%85%20packages%20%E5%A4%B1%E8%B4%A5.html</id>
     <published>2020-12-18T15:49:49.000Z</published>
     <updated>2020-12-18T16:01:12.665Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="atom" scheme="http://www.5know.xyz/tags/atom/"/>
+    <category term="atom" scheme="https://www.5know.xyz/tags/atom/"/>
     
   </entry>
   
   <entry>
     <title>hexo设置首页列表显示摘要而不是全文</title>
-    <link href="http://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo%E8%AE%BE%E7%BD%AE%E9%A6%96%E9%A1%B5%E5%88%97%E8%A1%A8%E6%98%BE%E7%A4%BA%E6%91%98%E8%A6%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%85%A8%E6%96%87.html</id>
     <published>2020-12-17T15:12:13.000Z</published>
     <updated>2020-12-17T15:16:29.538Z</updated>
     
@@ -93,19 +93,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo下yilia主题添加字数统计和阅读时长功能</title>
-    <link href="http://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo%E4%B8%8Byilia%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E5%AD%97%E6%95%B0%E7%BB%9F%E8%AE%A1%E5%92%8C%E9%98%85%E8%AF%BB%E6%97%B6%E9%95%BF%E5%8A%9F%E8%83%BD.html</id>
     <published>2020-12-17T14:13:30.000Z</published>
     <updated>2020-12-17T15:04:32.782Z</updated>
     
@@ -116,19 +116,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo下鼠标点击网页空白处出现富强民主和谐自由</title>
-    <link href="http://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo%E4%B8%8B%E9%BC%A0%E6%A0%87%E7%82%B9%E5%87%BB%E7%BD%91%E9%A1%B5%E7%A9%BA%E7%99%BD%E5%A4%84%E5%87%BA%E7%8E%B0%E5%AF%8C%E5%BC%BA%E6%B0%91%E4%B8%BB%E5%92%8C%E8%B0%90%E8%87%AA%E7%94%B1.html</id>
     <published>2020-12-17T14:13:30.000Z</published>
     <updated>2020-12-17T15:02:56.070Z</updated>
     
@@ -139,19 +139,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo+yilia添加版权声明</title>
-    <link href="http://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo+yilia%E6%B7%BB%E5%8A%A0%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E.html</id>
     <published>2020-12-15T13:18:13.000Z</published>
     <updated>2020-12-17T14:56:54.886Z</updated>
     
@@ -162,19 +162,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客设置打赏功能</title>
-    <link href="http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E8%AE%BE%E7%BD%AE%E6%89%93%E8%B5%8F%E5%8A%9F%E8%83%BD.html</id>
     <published>2020-12-15T13:18:13.000Z</published>
     <updated>2020-12-17T14:58:35.142Z</updated>
     
@@ -185,19 +185,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo博客添加访问量统计</title>
-    <link href="http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html"/>
-    <id>http://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html</id>
+    <link href="https://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html"/>
+    <id>https://www.5know.xyz/2020_12/hexo%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F%E7%BB%9F%E8%AE%A1.html</id>
     <published>2020-12-15T12:08:55.000Z</published>
     <updated>2020-12-17T15:00:20.166Z</updated>
     
@@ -208,19 +208,19 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>GitHub Pages 设置好的域名实效了，页面访问返回 404</title>
-    <link href="http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html"/>
-    <id>http://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html</id>
+    <link href="https://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html"/>
+    <id>https://www.5know.xyz/2020_12/%E5%9C%A8%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%88%90%E9%83%A8%E7%BD%B2%E5%B9%B6Github%20Pages%E5%9F%9F%E5%90%8D%E8%AE%BE%E7%BD%AE%E5%AE%9E%E6%95%88404.html</id>
     <published>2020-12-14T15:07:49.000Z</published>
     <updated>2020-12-17T15:01:08.294Z</updated>
     
@@ -233,14 +233,14 @@
     
     
     
-    <category term="随笔" scheme="http://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.5know.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="GitHub Pages" scheme="http://www.5know.xyz/tags/GitHub-Pages/"/>
+    <category term="GitHub Pages" scheme="https://www.5know.xyz/tags/GitHub-Pages/"/>
     
-    <category term="Hexo" scheme="http://www.5know.xyz/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.5know.xyz/tags/Hexo/"/>
     
-    <category term="Domains" scheme="http://www.5know.xyz/tags/Domains/"/>
+    <category term="Domains" scheme="https://www.5know.xyz/tags/Domains/"/>
     
   </entry>
   
